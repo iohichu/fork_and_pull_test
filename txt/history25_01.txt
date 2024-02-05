@@ -1,0 +1,91 @@
+   0 env
+   1 echo "hello"
+   2 bash
+   3 > test.txt
+   4 bash
+   5 exit
+   6 env
+   7 pwd
+   8 cd /opt
+   9 cd /tmp/
+  10 env
+  11 cd
+  12 history
+  13 export NAME=ivan
+  14 export VAR=hello CITY=berlin
+  15 env
+  16 echo $VAR from $CITY
+  17 echo $PATH
+  18 $NAME
+  19 export VAR2=ls
+  20 $VAR2
+  21 env
+  22 ls
+  23 ls /
+  24 ls -l /
+  25 ls -l /bin
+  26 env
+  27 unset VAR NAME VAR2 CITY PATH
+  28 ls
+  29 mkdir 
+  30 touch 1
+  31 pwd
+  32 tree
+  33 cd /bin
+  34 ls
+  35 ls /opt
+  36 mkdir /opt/ivan
+  37 cd
+  38 ls
+  39 /bin/ls
+  40 /bin/ls /tmp
+  41 /bin/ls /opt/
+  42 export PATH=/bin
+  43 ls
+  44 tree
+  45 whoami
+  46 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+  47 whoami
+  48 whereis tree
+  49 whereis nano
+  50 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/ivan/apps
+  51 ivan
+  52 ls -l
+  53 ls -al
+  54 chmod u-r test.txt 
+  55 ls -l
+  56 cat test.txt 
+  57 chmod u-r readme.txt 
+  58 ls -l
+  59 cat readme.txt 
+  60 chmod u-w readme.txt 
+  61 nano readme.txt 
+  62 ls -l
+  63 chmod g+w readme.txt 
+  64 ls -l
+  65 chmod ug+rwx readme.txt 
+  66 ls -l
+  67 chmod o+rwx readme.txt 
+  68 ls -l
+  69 chmod ugo-rwx readme.txt 
+  70 ls -l
+  71 chmod u+r,g+x,o+rwx readme.txt 
+  72 ls -l
+  73 chmod a+rwx readme.txt 
+  74 chmod 777 readme.txt 
+  75 ls -l
+  76 chmod 000
+  77 chmod 000 readme.txt 
+  78 ls -l
+  79 chmod 7 readme.txt 
+  80 ls -l
+  81 chmod 77 readme.txt 
+  82 ls -l
+  83 chmod 744 readme.txt 
+  84 ls -l
+  85 chmod 754 readme.txt 
+  86 ls -l
+  87 chmod 755 readme.txt 
+  88 ls -l
+  89 history 
+  90 history > history25_01.txt
