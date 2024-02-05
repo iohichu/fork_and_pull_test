@@ -1,0 +1,34 @@
+   0 mkdir /home/test/ivan/folder
+   1 mkdir -p /home/test/ivan/folder
+   2 ls /
+   3 mkdir /tmp
+   4 mkdir -p /tmp
+   5 mkdir -p /tmp/ivan/123/file.txt
+   6 cd /tmp/ivan/123/
+   7 ls -l
+   8 cd /
+   9 ls -l
+  10 pwd
+  11 cd
+  12 ls --help
+  13 touch 1.txt
+  14 ls
+  15 touch .2.txt
+  16 ls
+  17 ls --help
+  18 cd --help
+  19 ls -l
+  20 ls -a
+  21 ls -alh
+  22 df 
+  23 cp /opt /home/new_opt
+  24 cp -R /opt /home/new_opt
+  25 cp --help
+  26 cd /opt/
+  27 ls -l
+  28 mv /opt/temu/ /opt/vasya
+  29 ls -l
+  30 rename --help
+  31 ls
+  32 cd
+  33 history > histrory_26_tasks.txt
