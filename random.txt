@@ -1,0 +1,20 @@
+Filesystem                                        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1                                   228Gi   9.4Gi    84Gi    11%    394k  883M    0%   /
+devfs                                            211Ki   211Ki     0Bi   100%     730     0  100%   /dev
+/dev/disk3s6                                     228Gi   9.0Gi    84Gi    10%       9  883M    0%   /System/Volumes/VM
+/dev/disk3s2                                     228Gi   5.6Gi    84Gi     7%    1.1k  883M    0%   /System/Volumes/Preboot
+/dev/disk3s4                                     228Gi    38Mi    84Gi     1%      45  883M    0%   /System/Volumes/Update
+/dev/disk1s2                                     500Mi   6.0Mi   482Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1                                     500Mi   6.1Mi   482Mi     2%      29  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                                     500Mi   876Ki   482Mi     1%      69  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5                                     228Gi   119Gi    84Gi    59%    1.3M  883M    0%   /System/Volumes/Data
+map auto_home                                      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/Applications/AliExpress.app/Wrapper             228Gi   119Gi    92Gi    57%    1.2M  970M    0%   /private/var/folders/6j/ncrww5pj2hl5gtqr27g_3t8h0000gn/X/8C86D47D-AEEC-507A-AA91-15EBC27CF990
+/dev/disk4s1                                     564Mi   364Mi   201Mi    65%     608  4.3G    0%   /Volumes/MongoDB Compass
+/Volumes/MongoDB Compass/MongoDB Compass.app     564Mi   364Mi   201Mi    65%     608  4.3G    0%   /private/var/folders/6j/ncrww5pj2hl5gtqr27g_3t8h0000gn/T/AppTranslocation/C18025F4-230D-4CD8-AE6D-1440C8765DE0
+/dev/disk5                                       342Mi   322Mi    20Mi    95%    7.7k  4.3G    0%   /Volumes/MySQL Workbench community-8.0.34
+/dev/disk6s2                                     3.3Gi   3.3Gi    12Mi   100%    3.0k  4.3G    0%   /Volumes/IntelliJ IDEA
+/Volumes/IntelliJ IDEA/IntelliJ IDEA.app         3.3Gi   3.3Gi    12Mi   100%    3.0k  4.3G    0%   /private/var/folders/6j/ncrww5pj2hl5gtqr27g_3t8h0000gn/T/AppTranslocation/D8E8707B-CE02-4CA6-968C-2228BFC275F8
+/dev/disk7s2                                     2.8Gi   2.8Gi    12Mi   100%    2.3k  4.3G    0%   /Volumes/IntelliJ IDEA CE
+/Volumes/IntelliJ IDEA CE/IntelliJ IDEA CE.app   2.8Gi   2.8Gi    12Mi   100%    2.3k  4.3G    0%   /private/var/folders/6j/ncrww5pj2hl5gtqr27g_3t8h0000gn/T/AppTranslocation/6F374806-AEB7-4CA1-8D79-2080DBA05885
+/Applications/AliExpress.app/Wrapper             228Gi   116Gi    91Gi    57%    1.3M  951M    0%   /private/var/folders/6j/ncrww5pj2hl5gtqr27g_3t8h0000gn/X/4CCA3BFF-414A-5630-859B-F59A1453C899
