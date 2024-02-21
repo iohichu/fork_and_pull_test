@@ -1,0 +1,3 @@
+  PID TTY           TIME CMD
+ 3634 ttys000    0:00.16 /bin/bash --rcfile /Applications/IntelliJ IDEA CE.app/Contents/plugins/terminal/shell-integrations/bash/bash-integration.bash -i
+ 4464 ttys001    0:00.08 -bash
