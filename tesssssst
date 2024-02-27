@@ -1,0 +1,13 @@
+Filesystem                 Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1            228Gi   9.4Gi    80Gi    11%    394k  839M    0%   /
+devfs                     202Ki   202Ki     0Bi   100%     700     0  100%   /dev
+/dev/disk3s6              228Gi   3.0Gi    80Gi     4%       3  839M    0%   /System/Volumes/VM
+/dev/disk3s2              228Gi   5.6Gi    80Gi     7%    1.1k  839M    0%   /System/Volumes/Preboot
+/dev/disk3s4              228Gi    88Mi    80Gi     1%      65  839M    0%   /System/Volumes/Update
+/dev/disk1s2              500Mi   6.0Mi   483Mi     2%       3  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1              500Mi   6.1Mi   483Mi     2%      32  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3              500Mi   508Ki   483Mi     1%      34  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5              228Gi   129Gi    80Gi    62%    1.3M  839M    0%   /System/Volumes/Data
+map auto_home               0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/Applications/DeepL.app   228Gi   127Gi    86Gi    60%    1.3M  898M    0%   /private/var/folders/p3/6892s1t178q_2tz6pv8z0l5c0000gn/T/AppTranslocation/FB307158-E01E-467F-9534-F7F381DD1734
+/dev/disk6s2              466Gi   453Gi    13Gi    98%       1     0  100%   /Volumes/DATA SSD
