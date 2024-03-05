@@ -1,1 +1,8 @@
 qwerty
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      929     928     929       2248  pty0      197609 09:44:18 /usr/bin/bash
+     1142    1106    1142       1628  pty1      197609 12:36:33 /usr/bin/ps
+     1106    1105    1106      15288  pty1      197609 12:19:30 /usr/bin/bash
+     1105       1    1105       9616  ?         197609 12:19:30 /usr/bin/mintty
+     1083       1    1083      21812  cons0     197609 12:14:14 /usr/bin/bash
+      928       1     928      14236  ?         197609 09:44:18 /usr/bin/mintty
