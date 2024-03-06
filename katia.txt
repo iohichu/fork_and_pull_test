@@ -1,0 +1,6 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   imtdg    1461    1113 pty1     12:19:38 /usr/bin/ps
+   imtdg    1112       1 ?        10:18:11 /usr/bin/mintty
+   imtdg    1071    1070 pty0     09:47:24 /usr/bin/bash
+   imtdg    1113    1112 pty1     10:18:11 /usr/bin/bash
+   imtdg    1070       1 ?        09:47:24 /usr/bin/mintty
