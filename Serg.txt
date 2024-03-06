@@ -1,0 +1,12 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   sergs     172     164 cons0    09:08:24 /c/Program Files/nodejs/node
+   sergs     173       1 cons1    09:11:25 /usr/bin/bash
+   sergs     683       1 ?        12:16:49 /usr/bin/mintty
+   sergs     164      92 cons0    09:08:24 /usr/bin/bash
+   sergs      92       1 cons0    08:22:26 /usr/bin/bash
+   sergs     216     208 cons1    09:11:41 /c/Program Files/nodejs/node
+   sergs     208     173 cons1    09:11:41 /usr/bin/bash
+   sergs     445     444 pty0     11:35:20 /usr/bin/bash
+   sergs     684     683 pty1     12:16:50 /usr/bin/bash
+   sergs     444       1 ?        11:35:20 /usr/bin/mintty
+   sergs     714     684 pty1     12:19:56 /usr/bin/ps
