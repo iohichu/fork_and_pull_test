@@ -1,0 +1,6 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+    acer    1960    1587 pty1     12:20:02 /usr/bin/ps
+    acer    1534    1533 pty0     09:46:15 /usr/bin/bash
+    acer    1587    1586 pty1     10:18:10 /usr/bin/bash
+    acer    1586       1 ?        10:18:10 /usr/bin/mintty
+    acer    1533       1 ?        09:46:14 /usr/bin/mintty
