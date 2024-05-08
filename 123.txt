@@ -10,3 +10,4 @@ devfs                 404       404         0   100%     700         0  100%   /
 /dev/disk3s5    478724992 269244152 156798488    64% 1263181 783992440    0%   /System/Volumes/Data
 map auto_home           0         0         0   100%       0         0     -   /System/Volumes/Data/home
 /dev/disk6s2    976328960 948929792  27399168    98%       1         0  100%   /Volumes/DATA SSD
+kjkjk
