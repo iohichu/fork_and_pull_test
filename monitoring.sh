@@ -15,3 +15,9 @@ top_processes=$(ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%mem | head -n 6)
 
 hbyvyvyv
 
+hgvgcvgcvgcvgvg
+sadsdasdsdsadsa
+sdsadsadsads
+aЫфЫфы
+ф
+aЫфЫфы
